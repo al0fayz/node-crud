@@ -1,0 +1,1 @@
+Rest api node js (CRUD) dengan mysql dan sequelize
